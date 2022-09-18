@@ -6,11 +6,11 @@ title: Nelson Bighetti
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Candidate in Electrical and Computer Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: University of Illinois Urbana-Champaign
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
