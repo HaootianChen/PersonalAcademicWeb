@@ -32,6 +32,23 @@ content:
 #  offset: 0
   # Page order: descending (desc) or ascending (asc) date.
 #  order: desc
+  - certificate_url: 
+    date_end: ''
+    date_start: '2019-06-01'
+    description: ''
+    organization: Teaching Assistant · University of Illinois Urbana-Champaign
+    organization_url: 
+    title: ECE 391 Computer Systems Engineering (Fall 2021)
+    url: 
+  - certificate_url: 
+    date_end: ''
+    date_start: '2019-06-01'
+    description: ''
+    organization: Teaching Assistant · University of Illinois Urbana-Champaign
+    organization_url: 
+    title: CS/ECE 498 Data Science and Analysis (Spring 2020 & Spring 2021)
+    url: 
+
 
 design:
   # Choose a view for the listings:
