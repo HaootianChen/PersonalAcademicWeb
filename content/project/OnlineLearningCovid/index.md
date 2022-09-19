@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: An Adaptive Framework for COVID-19 Prognosis through Online Deep Learning
+summary: an online deep-learning-based frame-work for predicting severe disease outcomes (including intensive care unit [ICU] admission and death) among hospitalized COVID-19 patients.
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
