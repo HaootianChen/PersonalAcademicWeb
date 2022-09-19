@@ -61,6 +61,15 @@ item:
     company_logo: org-gc
     location: California
     date_start: '2021-01-01'
+  - certificate_url: https://www.coursera.org
+    date_end: ''
+    date_start: ' 2021-03-01'
+    description: ''
+    organization: Grainger College of Engineering, University of Illinois Urbana-Champaign
+    organization_url: https://www.coursera.org
+    title: Yunni & Maxine Pao Memorial Fellowship
+    url: ''
+
 
 design:
   columns: '2'
