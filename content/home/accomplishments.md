@@ -47,6 +47,14 @@ item:
     organization_url: https://www.datacamp.com
     title: 'Object-Oriented Programming in R'
     url: ''
+  - certificate_url: 
+    date_end: 
+    date_start: '2020-07-01'
+    description: ''
+    organization: DataCamp11
+    organization_url: 
+    title: 'Object-Oriented Programming in R'
+    url: ''
 
 design:
   columns: '2'
