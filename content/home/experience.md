@@ -23,9 +23,9 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: PhD Scientist Intern Decision Science Optimization
-    company: Epsilon Data Management
+#    company: Epsilon Data Management
     company_url: ''
-    company_logo: EPSILON_LOGO
+#    company_logo: EPSILON_LOGO
     location: Chicago
     date_start: '2022-05-01'
     date_end: '2022-08-01'
@@ -38,9 +38,9 @@ experience:
 #        * Deploying
 
   - title: Professor of Semiconductor Physics Decision Science Optimization
-    company: Epsilon Data Management
+#    company: Epsilon Data Management
     company_url: ''
-    company_logo: EPSILON_LOGO
+#    company_logo: EPSILON_LOGO
     location: Chicago
     date_start: '2021-05-01'
     date_end: '2021-8-31'
