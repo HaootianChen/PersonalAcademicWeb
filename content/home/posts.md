@@ -35,7 +35,7 @@ subtitle:
 item:
   - certificate_url: 
     date_end: ''
-    date_start: ''
+    date_start: 2021-01-01
     description: ''
     organization: Teaching Assistant · University of Illinois Urbana-Champaign
     organization_url: 
@@ -43,7 +43,7 @@ item:
     url: 
   - certificate_url: 
     date_end: ''
-    date_start: ''
+    date_start: 2021-01-01
     description: ''
     organization: Teaching Assistant · University of Illinois Urbana-Champaign
     organization_url: 
