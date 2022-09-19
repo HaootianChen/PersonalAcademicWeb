@@ -66,8 +66,24 @@ item:
     title: Yunni & Maxine Pao Memorial Fellowship
     url: https://depend.csl.illinois.edu/2021/03/16/congratulations-to-haotian-and-haoran/
 
+  - certificate_url: 
+    date_end: ''
+    date_start: '2019-06-01'
+    description: ''
+    organization: Zhejiang University
+    organization_url: 
+    title: Outstanding Graduates
+    url: 
 
-
+  - certificate_url: 
+    date_end: ''
+    date_start: '2017-02-01'
+    description: ''
+    organization: Consortium for Mathematics and its Applications (COMAP)
+    organization_url: 
+    title: Honerable Mention in Mathematical Contest in Modeling
+    url: 
+    
 design:
   columns: '2'
 ---
