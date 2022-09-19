@@ -11,7 +11,7 @@ weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 # title: 'Accomplish&shy;ments'
-title: 'Fellowship & Award'
+title: 'Award & Fellowship '
 subtitle: 
 
 # Date format
@@ -24,7 +24,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+<!--   - certificate_url: https://www.coursera.org
     date_end: ''
     date_start: '2021-01-25'
     description: ''
@@ -55,13 +55,13 @@ item:
     organization: DataCamp11
     organization_url: 
     title: 'Object-Oriented Programming in R'
-    url: ''
+    url: '' -->
   
   - certificate_url: 
     date_end: ''
-    date_start: '2021-01-25'
+    date_start: '2021-03-01'
     description: ''
-    organization: Grainger College of Engineering, University of Illinois at Urbana-Champaign Mar 2021
+    organization: Grainger College of Engineering, University of Illinois at Urbana-Champaign
     organization_url: 
     title: Yunni & Maxine Pao Memorial Fellowship
     url: https://depend.csl.illinois.edu/2021/03/16/congratulations-to-haotian-and-haoran/
