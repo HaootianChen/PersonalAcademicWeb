@@ -55,6 +55,12 @@ item:
     organization_url: 
     title: 'Object-Oriented Programming in R'
     url: ''
+  - title: C?O
+    company: GenCoin
+    company_url: ''
+    company_logo: org-gc
+    location: California
+    date_start: '2021-01-01'
 
 design:
   columns: '2'
