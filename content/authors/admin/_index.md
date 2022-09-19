@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Haotian Chen
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,8 +18,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
+  - Machine Learning
+  - Health Informatics
   - Information Retrieval
 
 # Education to show in About widget
@@ -70,8 +70,8 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD student in Electrical and Computer Engineering at the University of Illinois Urbana-Champaign (UIUC). I am fortunate to be advised by Prof. Ravishankar K. Iyer at the DEPEND research group in the Coordinated Science Laboratory. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Before joining UIUC ECE, I worked with Prof. Chenhui Shao
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
