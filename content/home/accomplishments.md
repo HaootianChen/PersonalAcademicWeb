@@ -56,14 +56,14 @@ item:
     title: 'Object-Oriented Programming in R'
     url: ''
   
-  - certificate_url: https://www.coursera.org
+  - certificate_url: 
     date_end: ''
     date_start: '2021-01-25'
     description: ''
     organization: Grainger College of Engineering, University of Illinois at Urbana-Champaign Mar 2021
-    organization_url: https://www.coursera.org
+    organization_url: 
     title: Yunni & Maxine Pao Memorial Fellowship
-    url: ''
+    url: https://depend.csl.illinois.edu/2021/03/16/congratulations-to-haotian-and-haoran/
 
 
 
