@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
   - certificate_url: https://www.coursera.org
     date_end: ''
-    date_start: ' Mar 2021'
+    date_start: ' 2021-03-01'
     description: ''
     organization: Grainger College of Engineering, University of Illinois Urbana-Champaign
     organization_url: https://www.coursera.org
