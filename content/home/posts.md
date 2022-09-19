@@ -34,16 +34,16 @@ subtitle:
 #  order: desc
 item:
   - certificate_url: 
-    date_end: ''
-    date_start: 2021-01-01
+    date_end: 2021-12-01
+    date_start: 2021-08-01
     description: ''
     organization: Teaching Assistant · University of Illinois Urbana-Champaign
     organization_url: 
     title: ECE 391 Computer Systems Engineering (Fall 2021)
     url: 
   - certificate_url: 
-    date_end: ''
-    date_start: 2021-01-01
+    date_end: 2021-05-01
+    date_start: 2020-01-01
     description: ''
     organization: Teaching Assistant · University of Illinois Urbana-Champaign
     organization_url: 
