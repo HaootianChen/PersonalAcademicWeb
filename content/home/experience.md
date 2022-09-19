@@ -22,14 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-#  - title: PhD Scientist Intern Decision Science Optimization
-#    company: Epsilon Data Management
-#    company_url: ''
-#    company_logo: EPSILON_LOGO
-#    location: Chicago
-#    date_start: '2022-05-01'
-#    date_end: '2022-08-01'
-#    description: Developped a dynamic-programming algorithm for company-level click-through rate optimization.
+  - title: PhD Scientist Intern Decision Science Optimization
+    company: Epsilon Data Management
+    company_url: ''
+    company_logo: EPSILON_LOGO
+    location: Chicago
+    date_start: '2022-05-01'
+    date_end: '2022-08-01'
+    description: Developped a dynamic-programming algorithm for company-level click-through rate optimization.
 #    |2-
 #        Responsibilities include:
 #        
