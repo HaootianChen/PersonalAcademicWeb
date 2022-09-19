@@ -20,7 +20,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
   - Machine Learning
   - Health Informatics
-  - System Reliability
+  - System Resilience
   - Smart Manufacturing
 
 # Education to show in About widget
