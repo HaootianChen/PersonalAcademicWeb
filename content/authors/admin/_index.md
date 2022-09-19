@@ -20,7 +20,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
   - Machine Learning
   - Health Informatics
-  - Information Retrieval
+  - System Reliability
+  - Smart Manufacturing
 
 # Education to show in About widget
 education:
@@ -70,7 +71,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a PhD student in Electrical and Computer Engineering at the University of Illinois Urbana-Champaign (UIUC). I am fortunate to be advised by Prof. Ravishankar K. Iyer at the DEPEND research group in the Coordinated Science Laboratory. My current research focus is the applications of Machine learning in healthcare, using online machine learning for adapting to changing pandemic circumstances and factor-graph models for incoperating domain knowledges. 
+I am a PhD student in Electrical and Computer Engineering at the University of Illinois Urbana-Champaign (UIUC). I am fortunate to be advised by Prof. Ravishankar K. Iyer at the DEPEND research group in the Coordinated Science Laboratory. My current research focus is Machine learning for healthcare, using online learning for adapative COVID-19 prognosis and factor-graph models for clinical knowledge embedding. 
 
 Previously, I worked with Prof. Chenhui Shao at Automation and Digital Manufacturing Lab. I developed multi-task learning approaches for data-efficient manufacturing-process mornitoring.
 
