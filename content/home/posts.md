@@ -14,7 +14,7 @@ weight: 60
 title: Teaching
 subtitle:
 
-content:
+#content:
   # Filter on criteria
 #  filters:
 #    folders:
@@ -32,6 +32,7 @@ content:
 #  offset: 0
   # Page order: descending (desc) or ascending (asc) date.
 #  order: desc
+item:
   - certificate_url: 
     date_end: ''
     date_start: '2019-06-01'
