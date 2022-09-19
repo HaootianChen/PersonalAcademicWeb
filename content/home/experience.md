@@ -22,28 +22,29 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: PhD Scientist Intern
-    company: GenCoin
+  - title: PhD Scientist Intern, Decision Science Optimization
+    company: Epsilon Data Management, LLC
     company_url: ''
     company_logo: EPSILON_LOGO
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    location: Chicago, IL
+    date_start: '2022-05-01'
+    date_end: '2022-08-01'
+    description: Developped a dynamic-programming algorithm for company-level click-through rate optimization.
+#    |2-
+#        Responsibilities include:
+#        
+#        * Analysing
+#        * Modelling
+#        * Deploying
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Professor of Semiconductor Physics, Decision Science Optimization
+    company: Epsilon Data Management, LLC
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: EPSILON_LOGO
+    location: Chicago, IL
+    date_start: '2021-05-01'
+    date_end: '2021-8-31'
+    description: Time-series clustering on Ads insertion orders.
 
 design:
   columns: '2'
