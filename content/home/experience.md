@@ -37,14 +37,14 @@ experience:
 #        * Modelling
 #        * Deploying
 
-#  - title: Professor of Semiconductor Physics Decision Science Optimization
-#    company: Epsilon Data Management
-#    company_url: ''
-#    company_logo: EPSILON_LOGO
-#    location: Chicago
-#    date_start: '2021-05-01'
-#    date_end: '2021-8-31'
-#    description: Time-series clustering on Ads insertion orders.
+  - title: PhD Scientist Intern Decision Science Optimization
+    company: Epsilon Data Management
+    company_url: ''
+    company_logo: EPSILON_LOGO
+    location: Chicago
+    date_start: '2021-05-01'
+    date_end: '2021-08-31'
+    description: Time-series clustering on Ads insertion orders.
 
 design:
   columns: '2'
