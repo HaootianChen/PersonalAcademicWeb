@@ -8,7 +8,7 @@ widget: accomplishments
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 50
 
 # title: Recent Posts
 title: Teaching
@@ -35,7 +35,7 @@ subtitle:
 item:
   - certificate_url: 
     date_end: ''
-    date_start: '2019-06-01'
+    date_start: ''
     description: ''
     organization: Teaching Assistant · University of Illinois Urbana-Champaign
     organization_url: 
@@ -43,11 +43,11 @@ item:
     url: 
   - certificate_url: 
     date_end: ''
-    date_start: '2019-06-01'
+    date_start: ''
     description: ''
     organization: Teaching Assistant · University of Illinois Urbana-Champaign
     organization_url: 
-    title: CS/ECE 498 Data Science and Analysis (Spring 2020 & Spring 2021)
+    title: CS/ECE 498 Data Science and Analytics (Spring 2020 & Spring 2021)
     url: 
 
 
