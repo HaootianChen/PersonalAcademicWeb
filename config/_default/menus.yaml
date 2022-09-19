@@ -20,7 +20,7 @@ main:
     url: '#talks'
     weight: 50
   - name: Award
-    url: '#talks'
+    url: '#accomplishments'
     weight: 60
 
   - name: Contact
