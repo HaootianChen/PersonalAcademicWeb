@@ -61,7 +61,7 @@ item:
     date_end: ''
     date_start: '2020-12-01'
     description: ''
-    organization: US provisionary patent, serial number 63/120,715
+    organization: US provisional patent, serial number 63/120,715
     organization_url: 
     title:  A Multi-stage Prognostic Pipeline for Tracking and Predicting Disease Escalation.
     url:
