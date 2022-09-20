@@ -1,6 +1,6 @@
 ---
-title: '[Multi-task learning for data-efficient spatiotemporal
-modeling of tool surface progression in ultrasonic metal welding](https://main--haotian-chen-academic.netlify.app/publication/factorgraph/FactorGraph.pdf)'
+title: '[**Multi-task learning for data-efficient spatiotemporal
+modeling of tool surface progression in ultrasonic metal welding**](https://main--haotian-chen-academic.netlify.app/publication/factorgraph/FactorGraph.pdf)'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
