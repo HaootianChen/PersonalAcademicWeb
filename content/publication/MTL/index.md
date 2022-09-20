@@ -31,7 +31,8 @@ publication_types: ['2']
 publication: In Journal of Manufacturing Systems
 publication_short: In Journal of Manufacturing Systems
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Spatiotemporal processes commonly exist in manufacturing. Modeling and monitoring such processes are crucial for ensuring high-quality production. For example, ultrasonic metal welding is an important industrial-scale joining technique with wide applications. The surfaces of ultrasonic welding tools evolve in both spatial and temporal domains, resulting in a spatiotemporal process. Close monitoring of tool surface progression is imperative since degraded tools often lead to low-quality joints. However, it is generally expensive and time-consuming to acquire fine-scale surface measurement data, which is not economically viable. This paper develops a multi-task learning method to enable data-efficient spatiotemporal modeling. A Gaussian process-based
+hierarchical Bayesian inference structure is constructed to transfer knowledge among multiple similar-but-not-identical measurement tasks. Meanwhile, a spatiotemporal kernel is developed based on squared sine exponential damping (SSED) function to characterize the periodic trend of anvil surfaces. The proposed method is able to improve interpolation accuracy using limited measurement data compared with state-of-the-art techniques. Data collected from lithium-ion battery production are employed to demonstrate the effectiveness of the proposed method. Additionally, the influence of training data size and hyperparameter selection on the modeling performance is systematically investigated.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -67,15 +68,15 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+# projects:
+#   - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
 
 {{% callout note %}}
