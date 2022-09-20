@@ -55,7 +55,7 @@ social:
 #    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/haotian-chen-6b207115a
+    link: https://www.linkedin.com/in/haotian-chen-6b207115a/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
