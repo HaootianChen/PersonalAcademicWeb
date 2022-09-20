@@ -1,5 +1,5 @@
 ---
-title: 'Predicting ICU Admissions for Hospitalized COVID-19 Patients with a Factor Graph-based Model'
+title: 'Predicting ICU Admissions for Hospitalized COVID-19 Patients with a Factor Graph-based Model' Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
