@@ -69,10 +69,12 @@ email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
 
 I am a PhD student in Electrical and Computer Engineering at the University of Illinois Urbana-Champaign (UIUC). I am fortunate to be advised by Prof. Ravishankar K. Iyer at the DEPEND research group in the Coordinated Science Laboratory. My current research focus is Machine learning for healthcare, using online learning for adapative COVID-19 prognosis and factor-graph models for clinical knowledge embedding. 
 
 Previously, I worked with Prof. Chenhui Shao at Automation and Digital Manufacturing Lab. I developed multi-task learning approaches for data-efficient manufacturing-process mornitoring.
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
