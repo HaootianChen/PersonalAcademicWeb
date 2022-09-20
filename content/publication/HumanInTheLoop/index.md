@@ -32,7 +32,7 @@ publication_types: ['3']
 publication: In 14th ACM Conference on Recommender Systems (HealthRecSys’ 20)
 publication_short: In 14th ACM Conference on Recommender Systems (HealthRecSys’ 20)
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In this position paper, we discuss the potential use of a reinforcement learning (RL)-based human-in-the-loop recommender system to support clinical management of COVID-19. COVID-19 is a disease of extraordinary complexity that even the most experienced clinicians are struggling to understand. There is an urgent need for an evidence-based model for predicting the severity of the COVID-19 disease and its complications that can guide individual clinical management decisions. Such a model will utilize a diverse set of information to determine a patient’s disease severity and associated risk of complications. An immediate application would be a clinical protocol tailored for COVID-19 patient care; this is a critical need both today and for future studies of potential treatments
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -68,15 +68,15 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+# projects:
+#  - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
 
 {{% callout note %}}
