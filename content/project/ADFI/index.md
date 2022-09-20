@@ -27,7 +27,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
 Unmanned aerial vehicles (UAVs) are being rapidly deployed in many real-world applications, such as policing, logistics, search, aerial-survey, and filming. However, recent headline-making UAV accidents highlight the challenge of ensuring the safety of such cyber-physical systems. Hence, a methodology for the meticulous safety assessment of UAVs is a primary concern for developing such technology, directly influencing its public acceptance and adoption. In this paper, we perform (i) an assessment of field failure reports from four multi-national databases relating to safety incidents involving UAVs; and (ii)
