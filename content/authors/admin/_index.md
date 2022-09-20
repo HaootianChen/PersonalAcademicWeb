@@ -75,4 +75,4 @@ I am a PhD student in Electrical and Computer Engineering at the University of I
 
 Previously, I worked with Prof. Chenhui Shao at Automation and Digital Manufacturing Lab. I developed multi-task learning approaches for data-efficient manufacturing-process mornitoring.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
